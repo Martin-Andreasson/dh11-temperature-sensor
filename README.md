@@ -1,1 +1,1 @@
-# dh11-temperature-sensor
+Script to read temperature and humidity and display to LED
